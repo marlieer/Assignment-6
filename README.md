@@ -7,9 +7,9 @@ This is a page that gives a little glimpse as to how I see my future in computer
 There are plenty of careers available in computer science, which is the reason I study it. I'm looking for a career that can fit my lifestyle of working from home or the office and being flexible to pick kids up from school or drive them to sports practice. Computer science fit the bill on the dot, and as a bonus, I happen to like it.
 
 ```markdown
-Here are some jobs in my community that have promising prospects
+**Here are some jobs in my community that have promising prospects**
 
-- Tsilqotin National Government
+- Tsilqotin National Government network and database management
 - School Distrcit 27 IT Department
 - Gibraltor or Mount Polly Mine
 - Natural Resource Data Management and Analytics

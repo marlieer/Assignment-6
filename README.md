@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# Welcome to Marlie's Page!
 
 You can use the [editor on GitHub](https://github.com/marlieer/Assignment-6/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## My Career Prospects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+There are plenty of careers available in computer science, which is the reason I study it. I'm looking for a career that can fit my lifestyle of working from home or the office and being flexible to pick kids up from school or drive them to sports practice. Computer science fit the bill on the dot, and as a bonus, I happen to like it.
 
 ```markdown
-Syntax highlighted code block
+# Here are some jobs in my community that have promising prospects
 
-# Header 1
-## Header 2
-### Header 3
+- Tsilqotin National Government
+- School Distrcit 27 IT Department
+- Gibraltor or Mount Polly Mine
+- Natural Resource Data Management and Analytics
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
+But what I would really like to do is have my own start-up that specializes in database and application development and management for local companies.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/marlieer/Assignment-6/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Otherwise, I'd also _love_ to be a doctor, either specializing in cardiology or obstetrics and gynecology. Both computer science and medicine offer exciting careers of problem solving and important customer/client relatinoships.

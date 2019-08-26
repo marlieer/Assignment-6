@@ -1,6 +1,6 @@
 # Welcome to Marlie's Page!
 
-This is a page that gives a little glimpse as to how I see my future in computer science
+This is a page that gives a little glimpse as to how I see my future in computer science. I've also created a Hello World here.
 
 ## My Career Prospects
 
